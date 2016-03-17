@@ -10,6 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Github!\n";
+    std::cout << "Github Hello!\n";
     return 0;
 }
