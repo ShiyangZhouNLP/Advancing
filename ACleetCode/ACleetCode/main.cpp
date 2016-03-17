@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  ACleetCode
+//  ACLeetCode
 //
 //  Created by shiyang on 16-3-17.
 //  Copyright (c) 2016年 shiyang. All rights reserved.
@@ -8,11 +8,8 @@
 
 #include <iostream>
 
-using namespace std;
-
 int main(int argc, const char * argv[]) {
     // insert code here...
-    cout << "Github First\n";
-    
+    std::cout << "Github!\n";
     return 0;
 }
