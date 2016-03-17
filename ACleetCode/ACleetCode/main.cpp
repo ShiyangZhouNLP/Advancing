@@ -12,7 +12,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    cout << "Github Hello, World!\n";
+    cout << "Github First\n";
     
     return 0;
 }
